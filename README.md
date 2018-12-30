@@ -22,7 +22,9 @@ Program ini dapat berfungsi untuk melakukan transaksi penjualan maupun pembelian
 <br>
 Tampilan menu utama: 
 <br>
-![GitHub Logo](Program-SPBU/tampilan awal.png)
+![GitHub Logo](
+        Program-SPBU/tampilan rekap data.png
+      )
 <br>
 
 ### Penjualan
