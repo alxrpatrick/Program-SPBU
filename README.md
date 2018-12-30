@@ -22,27 +22,23 @@ Program ini dapat berfungsi untuk melakukan transaksi penjualan maupun pembelian
 <br>
 Tampilan menu utama: 
 <br>
-![GitHub Logo](
-        Program-SPBU/tampilan rekap data.png
-      )
+![Menu](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20awal.png)
 <br>
 
 ### Penjualan
 Penjualan per harga:
 <br>
-![JualHarga](Program-SPBU/tampilan jual.png)
+![JualHarga](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20jual.png)
 <br>
 Penjualan per liter:
 <br>
+![JualLiter](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20jual%20liter.png)
 <br>
 
 ### Pembelian
-Pembelian per harga:
+Pembelian:
 <br>
-![BeliHarga](Program-SPBU/tampilan isi ulang.png)
-<br>
-Pembelian per liter:
-<br>
+![BeliHarga](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20isi%20ulang.png)
 <br>
 
 ### Rekap Data
@@ -52,3 +48,4 @@ Rekap data menunjukan total BBM terjual dan terisi
 <br>
 
 ### Fasilitas Bantuan
+![Help](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20bantuan.png)
