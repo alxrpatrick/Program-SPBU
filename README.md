@@ -48,7 +48,7 @@ Pembelian per liter:
 ### Rekap Data
 Rekap data menunjukan total BBM terjual dan terisi
 <br>
-![Rekap](Program-SPBU/tampilan rekap data.png)
+![Rekap](https://github.com/alxrpatrick/Program-SPBU/blob/master/tampilan%20rekap%20data.png)
 <br>
 
 ### Fasilitas Bantuan
