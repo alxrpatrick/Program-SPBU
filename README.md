@@ -22,13 +22,13 @@ Program ini dapat berfungsi untuk melakukan transaksi penjualan maupun pembelian
 <br>
 Tampilan menu utama: 
 <br>
-![MainMenu](/tampilan awal.png)
+![MainMenu](Program-SPBU/tampilan awal.png)
 <br>
 
 ### Penjualan
 Penjualan per harga:
 <br>
-![JualHarga](/tampilan jual.png)
+![JualHarga](Program-SPBU/tampilan jual.png)
 <br>
 Penjualan per liter:
 <br>
@@ -37,7 +37,7 @@ Penjualan per liter:
 ### Pembelian
 Pembelian per harga:
 <br>
-![BeliHarga](/tampilan isi ulang.png)
+![BeliHarga](Program-SPBU/tampilan isi ulang.png)
 <br>
 Pembelian per liter:
 <br>
@@ -46,7 +46,7 @@ Pembelian per liter:
 ### Rekap Data
 Rekap data menunjukan total BBM terjual dan terisi
 <br>
-![Rekap](/tampilan rekap data.png)
+![Rekap](Program-SPBU/tampilan rekap data.png)
 <br>
 
 ### Fasilitas Bantuan
